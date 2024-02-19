@@ -3,7 +3,7 @@
 Welcome to the Quarter Car Suspension Analysis repository! This project focuses on the exploration and analysis of a fundamental quarter-car model representing automotive suspension. While the model itself is basic, its simplicity provides valuable insights into ride characteristics, making it a great starting point for understanding suspension dynamics.
 
 <div style="text-align: center;">
-    <img src="https://github.com/MoBehtash/basic_quarter_car/blob/main/figures/schematic.png" alt="Time Domain Analysis" />
+    <img src="https://github.com/MoBehtash/linear_basic_quarter_car_analysis/blob/main/figures/schematic.png" alt="Time Domain Analysis" />
     <p><em>Figure 1: Schematic of the Quarter-Car Model</em></p>
 </div>
 
@@ -25,10 +25,10 @@ Welcome to the Quarter Car Suspension Analysis repository! This project focuses 
 ## Results
 You can visualize the results of the suspension analysis below:
 
-![Time Domain Analysis](https://github.com/MoBehtash/basic_quarter_car/blob/main/figures/time_res.png)
+![Time Domain Analysis](https://github.com/MoBehtash/linear_quarter_car_analysis/blob/main/figures/time_res.png)
 *Figure 2: Example of Time Domain Analysis*
 
-![Frequency Domain Analysis](https://github.com/MoBehtash/basic_quarter_car/blob/main/figures/freq_res.png)
+![Frequency Domain Analysis](https://github.com/MoBehtash/linear_quarter_car_analysis/blob/main/figures/freq_res.png)
 *Figure 3: Example of Frequency Domain Analysis*
 
 ## Disclaimer
