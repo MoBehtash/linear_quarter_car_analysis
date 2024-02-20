@@ -32,9 +32,9 @@ You can visualize the results of the suspension analysis below:
 *Figure 3: Example of Frequency Domain Analysis*
 
 ## Disclaimer
-Please note that while this quarter car model and analysis framework can provide valuable insights, there is no guarantee of its accuracy in representing real-world suspension behavior. The model's simplicity and assumptions may not fully capture the complexities of actual automotive suspensions.
+Please note that while this vehicle model and analysis framework can provide valuable insights, there is no guarantee of its accuracy in representing real-world vehicle behavior. The model's simplicity and assumptions may not fully capture the complexities of actual automotive vehicle.
 
-**Note:** Feel free to contribute, share your insights, or open issues for discussion. Collaboration is key to expanding our understanding of suspension dynamics.
+**Note:** Feel free to contribute, share your insights, or open issues for discussion. Collaboration is key to expanding our understanding of vehicle dynamics.
 
 
 ## Languages and Utilities Used
