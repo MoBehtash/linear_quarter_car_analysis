@@ -1,6 +1,6 @@
 # Linear Quarter-Car Suspension Analysis
 
-Welcome to the Quarter Car Suspension Analysis repository! This project focuses on the exploration and analysis of a fundamental quarter-car model representing automotive suspension. While the model itself is basic, its simplicity provides valuable insights into ride characteristics, making it a great starting point for understanding suspension dynamics.
+ This project focuses on the exploration and analysis of a fundamental quarter-car model representing automotive suspension. While the model itself is basic, its simplicity provides valuable insights into ride characteristics, making it a great starting point for understanding suspension dynamics.
 
 <div style="text-align: center;">
     <img src="https://github.com/MoBehtash/linear_quarter_car_analysis/blob/main/images/schematic.jpg" alt="Time Domain Analysis" width = "200"  />
